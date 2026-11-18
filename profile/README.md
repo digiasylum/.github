@@ -29,21 +29,6 @@ We look beyond individual channels to build connected digital capabilities that 
 
 ---
 
-## Table of Contents
-
-- [About DigiAsylum](#about-digiasylum)
-- [Capabilities](#capabilities)
-- [Why Work With DigiAsylum](#why-work-with-digiasylum)
-- [Proof, Not Promises](#proof-not-promises)
-- [Industries We Serve](#industries-we-serve)
-- [Our Methodology](#our-methodology)
-- [Who We Work With](#who-we-work-with)
-- [Technology and Platforms](#technology-and-platforms)
-- [Engagement Approach](#engagement-approach)
-- [Connect With Us](#connect-with-us)
-
----
-
 ## About DigiAsylum
 
 DigiAsylum was founded in 2020 with a focus on helping businesses build, improve and grow their digital presence. We combine strategic thinking with practical delivery across web development, ecommerce, search visibility and performance marketing.
@@ -80,7 +65,7 @@ For the latest information about our services, visit the [DigiAsylum website](ht
 - **Performance awareness** — reporting should help explain what is working, what needs attention and what to do next.
 - **Long-term perspective** — we consider how digital platforms and marketing systems can be maintained, improved and developed over time.
 
-## Proof, Not Promises
+## Projects Delivered
 
 Digital work should be evaluated by the business problem it addresses and the outcome it produces. The following selected engagements illustrate DigiAsylum's work across ecommerce acquisition, real estate lead quality, local search, website conversion and organic visibility.
 
